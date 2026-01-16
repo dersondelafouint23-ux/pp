@@ -2,7 +2,7 @@
   "name": "ROMANTIK",
   "short_name": "ROMANTIK",
   "description": "La plateforme de l'amour",
-  "start_url": "http://localhost:3000",
+  "start_url": "https://54ql6hds-3001.uks1.devtunnels.ms/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
